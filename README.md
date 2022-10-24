@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge tested my ability to simplify code in existing HTML and CSS templates and to make them more semantic and accessible for the user. 
+This challenge tested my ability to simplify code in existing HTML and CSS templates and to make them more semantic and accessible for the user.
 
 ## Installation
 
