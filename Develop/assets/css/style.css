@@ -77,22 +77,22 @@ header nav ul li {
 
 /* MAIN CONTENT */
 
-.content {
+main.content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content img {
+main.content img {
     max-height: 200px;
 }
 
-.content h2 {
+main.content h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-main section {
+main.content section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -103,7 +103,7 @@ main section {
 
 /* SIDEBAR */
 
-.benefits {
+aside.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -114,18 +114,18 @@ main section {
     background-color: #2589bd;
 }
 
-aside article {
+aside.benefits article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-aside article img {
+aside.benefits article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-aside article h3 {
+aside.benefits article h3 {
     margin-bottom: 10px;
     text-align: center;
 }
