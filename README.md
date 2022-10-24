@@ -2,7 +2,7 @@
 
 ## Description
 
-This challenge tested my ability to modify existing HTML and CSS templates to make them more semantic and accessible. 
+This challenge tested my ability to simplify code in existing HTML and CSS templates and to make them more semantic and accessible for the user. 
 
 ## Installation
 
@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-![Horiseon screenshot](Develop/assets/images/horiseon-screenshot.png)
+![Horiseon website screenshot](./Develop/assets/images/horiseon_screenshot.png)
 
 ## Credits
 
