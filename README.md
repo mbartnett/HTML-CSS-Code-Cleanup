@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-![Horiseon website screenshot](./Develop/assets/images/horiseon_screenshot.png)
+![Horiseon website screenshot](./assets/images/horiseon_screenshot.png)
 
 ## Credits
 
