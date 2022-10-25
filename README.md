@@ -6,7 +6,8 @@ This challenge tested my ability to simplify code in existing HTML and CSS templ
 
 ## Link
 
-[**Week One Challenge**](https://mbartnett.github.io/week-one-challenge/)
+[**Week One Challenge**](https://mbartnett.github.io/week-one-challenge/)<br>
+[**Week One Challenge Repo**](https://github.com/mbartnett/week-one-challenge)
 
 ## Screengrab
 
