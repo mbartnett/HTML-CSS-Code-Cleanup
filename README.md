@@ -5,7 +5,8 @@
 This challenge tested my ability to simplify code in existing HTML and CSS templates and to make them more semantic and accessible for the user.
 
 ## Link
-https://mbartnett.github.io/week-one-challenge/
+
+[**Week One Challenge**](https://mbartnett.github.io/week-one-challenge/)
 
 ## Screengrab
 
