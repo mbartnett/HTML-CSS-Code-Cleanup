@@ -4,17 +4,12 @@
 
 This challenge tested my ability to simplify code in existing HTML and CSS templates and to make them more semantic and accessible for the user.
 
-## Installation
+## Link
+https://mbartnett.github.io/week-one-challenge/
 
-N/A
-
-## Usage
+## Screengrab
 
 ![Horiseon website screenshot](./files/images/horiseon-screenshot.png)
-
-## Credits
-
-N/A
 
 ## License
 
