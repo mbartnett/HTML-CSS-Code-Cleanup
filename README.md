@@ -11,7 +11,7 @@ This challenge tested my ability to simplify code in existing HTML and CSS templ
 
 ## Screengrab
 
-![Horiseon website screenshot](./files/images/horiseon-screenshot.png)
+![Horiseon website screenshot](./assets/images/horiseon-screenshot.png)
 
 ## License
 
